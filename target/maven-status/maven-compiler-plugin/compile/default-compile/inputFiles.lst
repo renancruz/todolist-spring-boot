@@ -1,0 +1,10 @@
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/filter/FilterTaskAuth.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/user/IUserRepository.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/errors/ExceptionHandlerController.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/user/UserController.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/TodolistApplication.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/task/ITaskRepository.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/task/TaskController.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/utils/Utils.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/user/UserModel.java
+/home/renan/www/Java/todolist/src/main/java/br/com/renancruz/todolist/task/TaskModel.java

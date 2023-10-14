@@ -1,0 +1,10 @@
+br/com/renancruz/todolist/errors/ExceptionHandlerController.class
+br/com/renancruz/todolist/task/TaskModel.class
+br/com/renancruz/todolist/user/UserModel.class
+br/com/renancruz/todolist/TodolistApplication.class
+br/com/renancruz/todolist/filter/FilterTaskAuth.class
+br/com/renancruz/todolist/utils/Utils.class
+br/com/renancruz/todolist/task/ITaskRepository.class
+br/com/renancruz/todolist/user/IUserRepository.class
+br/com/renancruz/todolist/task/TaskController.class
+br/com/renancruz/todolist/user/UserController.class

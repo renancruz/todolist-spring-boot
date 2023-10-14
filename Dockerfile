@@ -1,7 +1,7 @@
 FROM ubuntu:latest AS build
 
 RUN apt-get update
-RUN apt-get install apenjdk-17-jsk -y
+RUN apt-get install apenjdk-17-jdk -y
 
 COPY . .
 
